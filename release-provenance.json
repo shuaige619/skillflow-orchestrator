@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "skill": "skillflow-orchestrator",
+  "source_files": {
+    "SKILL.md": "ecc06561866621895ab13b924271261d1204caa10bfccc51cc018edf1934c841",
+    "references/github-sharing.md": "a1705677a8f755f0c7640a7e57c91de21334680f77febbbaa3960a836a240a59",
+    "references/motion-workflow.md": "9b95b9fd71c9396ad2e5b38797cb63be16eafabcd0e0845efeccd8bd296aaa0e",
+    "references/operating-contract.md": "412f2e3bd496a970537f1bfdeb428b12d739b3dea2603e790e206606fdde2f62"
+  },
+  "adaptations": [
+    {
+      "file": "SKILL.md",
+      "purpose": "Make the distribution copy portable; original retained",
+      "source_sha256": "ecc06561866621895ab13b924271261d1204caa10bfccc51cc018edf1934c841",
+      "release_sha256": "cee96256478b84b9f98ff0b51542f1a4d335fe1be3473d42e97401bcfecb6431"
+    },
+    {
+      "file": "SKILL.md",
+      "purpose": "Make the distribution copy portable; original retained",
+      "source_sha256": "ecc06561866621895ab13b924271261d1204caa10bfccc51cc018edf1934c841",
+      "release_sha256": "483a7dabeea5b416ffa4267c9be317d9b1eea1810027200b7a0a649716e3cf56"
+    },
+    {
+      "file": "references/motion-workflow.md",
+      "purpose": "Make the distribution copy portable; original retained",
+      "source_sha256": "9b95b9fd71c9396ad2e5b38797cb63be16eafabcd0e0845efeccd8bd296aaa0e",
+      "release_sha256": "27a45282534ff97122acf57f1e55376bce457bec90c9b734da37fef1033ab7ac"
+    }
+  ],
+  "original_inputs_modified": false
+}

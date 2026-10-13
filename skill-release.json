@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "standard_version": "1.0.0",
+  "skill": "skillflow-orchestrator",
+  "source_version": "42c6e2efb53bf9cb4da4e39c090a68203956a410eca7e39f3da4ac596340a29e",
+  "origin": "original",
+  "stage": "candidate",
+  "upstream": "",
+  "files": {
+    "README.md": "485cffc8a853e777d88d9dd73631b90e23c712a8df1d394a4ba6396a8a41c12f",
+    "SKILL.md": "483a7dabeea5b416ffa4267c9be317d9b1eea1810027200b7a0a649716e3cf56",
+    "references/github-sharing.md": "a1705677a8f755f0c7640a7e57c91de21334680f77febbbaa3960a836a240a59",
+    "references/motion-workflow.md": "27a45282534ff97122acf57f1e55376bce457bec90c9b734da37fef1033ab7ac",
+    "references/operating-contract.md": "412f2e3bd496a970537f1bfdeb428b12d739b3dea2603e790e206606fdde2f62",
+    "references/project-dependencies.md": "a97cb886a4ba7cab60fd74f8736418b590b96a92260003fcd4ccd88976d5f00f",
+    "release-provenance.json": "6906fb799f08152b71b6779dc2b29a1ccbb52a7fcf9823521eca38ff7888f665"
+  }
+}
